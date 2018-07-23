@@ -1,7 +1,7 @@
 
     html {
       box-sizing: border-box;
-      background:url('http://travelhdwallpapers.com/wp-content/uploads/2014/01/DubaiMall-6.jpg');
+      background-image:url('images/bg-grocery.jpg');
       background-size:cover;
       min-height:100vh;
       display:flex;
